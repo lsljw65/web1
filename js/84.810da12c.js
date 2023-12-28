@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[84],{3084:function(n,e,r){r.r(e),r.d(e,{default:function(){return l}});var t=r(3396);const c={class:"section-continer"},u=(0,t._)("h2",null,"상품 본문구역",-1),s=[u];function i(n,e){return(0,t.wg)(),(0,t.iD)("div",c,s)}var a=r(89);const o={},f=(0,a.Z)(o,[["render",i]]);var l=f}}]);
+//# sourceMappingURL=84.810da12c.js.map
